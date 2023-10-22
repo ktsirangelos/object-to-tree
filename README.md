@@ -1,5 +1,4 @@
-/*
-
+```
 The function objToTree receives a JavaScript object and creates a visual tree-like representation of it.
 
 For example, this object:
@@ -48,5 +47,4 @@ The initial object needs to be in a particular format:
 
  every 'key' should be unique
  every 'value' should be either an 'object' or 'null'
-
-*/
+```

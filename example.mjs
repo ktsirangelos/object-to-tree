@@ -14,4 +14,4 @@ const exampleObject = {
 };
 
 const exampleTree = objectToTree(exampleObject);
-fs.writeFileSync("exampleTree.txt", exampleTree);
+fs.writeFileSync("example.txt", exampleTree);
